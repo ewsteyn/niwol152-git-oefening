@@ -1,7 +1,11 @@
-Naam: Anri
+Naam: Eugene
 Kampus: Pretoria
 Jaartal: 2026
 
-Naam: Eugene
-Kapus: Pretoria
+Naam: Danie
+Kampus: Nauurs
+Jaartal: 2026
+
+Naam: Anri 
+Kampus: Pretoria
 Jaartal: 2026
