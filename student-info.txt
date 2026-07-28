@@ -1,3 +1,7 @@
 Naam: Eugene
 Kampus: Pretoria
 Jaartal: 2026
+
+Naam: Danie
+Kampus: Nauurs
+Jaartal: 2026
