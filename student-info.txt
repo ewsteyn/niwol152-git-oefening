@@ -1,19 +1,4 @@
-Naam: Eugene 
+Jou naam: Koben
 Kampus: Pretoria
 Jaartal: 2026
-
-Naam: Danie
-Kampus: Nauurs
-Jaartal: 2026
-
-Naam: Anri 
-Kampus: Pretoria
-Jaartal: 2026
-
-Naam: Jan
-Kampus: Joburg
-Jaartal: 2027
-
-Naam: Gideon
-Kampus: Pretoria
-Jaartal: 2026
+```[cite: 1]
