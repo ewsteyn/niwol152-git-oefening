@@ -14,6 +14,6 @@ Naam: Jan
 Kampus: Joburg
 Jaartal: 2027
 
-Naam: Gideon_2025120201
+Naam: Gideon
 Kampus: Pretoria
 Jaartal: 2026
