@@ -1,3 +1,7 @@
 Naam: Anri
 Kampus: Pretoria
 Jaartal: 2026
+
+Naam: Eugene
+Kapus: Pretoria
+Jaartal: 2026
