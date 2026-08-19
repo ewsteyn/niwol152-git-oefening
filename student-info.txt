@@ -17,3 +17,7 @@ Jaartal: 2027
 Naam: Gideon
 Kampus: Pretoria
 Jaartal: 2026
+
+Naam: Jaydon
+Kampus: Pretoria
+Jaartal: 2026
